@@ -10,7 +10,7 @@ Ambitious full stack software engineer with focus in React. With experience work
 
 :floppy_disk: Full stack project management app using React, Rails, ChartJS, and Material UI. Requires login.
 
-**Personal Website** [Live Site](https://www.dan-hyman.com/) | [Repo](https://github.com/dahyman91/bug-tracker)
+**Personal Website** [Live Site](https://www.dan-hyman.com/) | [Repo](https://github.com/dahyman91/NextPortfolio)
 
 :blush: Personal site built using Next.js.
 
