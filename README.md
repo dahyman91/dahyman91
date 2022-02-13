@@ -12,7 +12,7 @@ Ambitious full stack software engineer with focus in React. With experience work
 
 **Personal Website** [Live Site](https://www.dan-hyman.com/) | [Repo](https://github.com/dahyman91/bug-tracker)
 
-:floppy_disk: Personal site built using Next.js.
+:blush: Personal site built using Next.js.
 
 **Stock Tracker** [Live Site](https://financial-dashboard-project.netlify.app/) | [Repo](https://github.com/dahyman91/financial-dashboard)
 
