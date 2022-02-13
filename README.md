@@ -6,7 +6,7 @@ Ambitious full stack software engineer with focus in React. With experience work
 
 ## Projects :art:
 
-**Bug Tracker/Team Management Tool** [Demo](https://www.youtube.com/watch?v=1PFvqD9YMrc) | [Live Site(Deployed on Heroku please be patient.)](https://peaceful-meadow-98604.herokuapp.com/) | [Repo](https://github.com/dahyman91/bug-tracker)
+**Bug Tracker/Team Management Tool** [Demo](https://www.youtube.com/watch?v=1PFvqD9YMrc) | [Live Site - Deployed on Heroku please be patient](https://peaceful-meadow-98604.herokuapp.com/) | [Repo](https://github.com/dahyman91/bug-tracker)
 
 :floppy_disk: Full stack project management app using React, Rails, ChartJS, and Material UI. Requires login.
 
