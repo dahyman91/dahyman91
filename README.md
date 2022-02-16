@@ -47,6 +47,8 @@ Ambitious full stack software engineer with focus in React. With experience work
 
 </p>
 
+<br />
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dahyman91&show_icons=true&locale=en" alt="benjacksonse" /></p>
 
 <br />
