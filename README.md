@@ -31,21 +31,6 @@ Ambitious full stack software engineer with focus in React. With experience work
  <br />
  &emsp;
  
-## Skills :computer:
-
-<p align="left">
-  <img src="https://icongr.am/devicon/html5-plain.svg?size=128&color=currentColor" alt="html5" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/css3-plain.svg?size=128&color=currentColor" alt="css3" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=currentColor" alt="js" align="left" width="40" height="40"/>
-  <img src="https://i.imgur.com/rTNkWSQ.png" alt="react" align="left" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" alt="react" align="left" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" align="left" width="40" height="40" />
-  <img src="https://icongr.am/devicon/ruby-plain.svg?size=128&color=currentColor" alt="ruby" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/rails-plain-wordmark.svg?size=128&color=currentColor" alt="rails" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/nodejs-plain-wordmark.svg?size=128&color=currentColor" alt="node" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/postgresql-plain.svg?size=128&color=currentColor" alt="postgres" align="left" width="40" height="40"/>
-
-</p>
 
 <br />
 <br />
