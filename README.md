@@ -4,6 +4,8 @@ Ambitious full stack software engineer with focus in React. With experience work
 
 [Personal Site](https://www.dan-hyman.com/)
 
+  <a href="https://www.linkedin.com/in/dan-hyman-dev/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
+
 ## Projects :art:
 
 **Bug Tracker/Team Management Tool** [Demo](https://www.youtube.com/watch?v=1PFvqD9YMrc) | [Live Site - Deployed On Heroku Please Be Patient](https://peaceful-meadow-98604.herokuapp.com/) | [Repo](https://github.com/dahyman91/bug-tracker)
