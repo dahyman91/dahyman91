@@ -40,3 +40,9 @@ Ambitious full stack software engineer with focus in React. With experience work
 
 <br />
 &emsp;
+<a href="https://github.com/dahyman91/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=sylviapap&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="Dan's github stats"/></a>
+<a href="https://github.com/dahyman91"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahyman91&layout=compact&theme=buefy" alt="Dan's top languages"/></a><br><br />
+
+## Visitors*
+![Visitor Count](https://profile-counter.glitch.me/dahyman91/count.svg)
+*<p align="right">&#42;In millions</p>*
