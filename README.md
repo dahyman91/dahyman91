@@ -1,4 +1,4 @@
-# :wave: Hey! I'm Dan! :wave:
+<!-- # :wave: Hey! I'm Dan! :wave:
 
 Ambitious full stack software engineer with focus in React. With experience working as an executive chef and corporate catering department head, I have a demonstrated history of leadership, team management, and practical implementation of operational technologies. In the past year I have fostered a passion for web development and am eager to continue to learn.
 
@@ -39,4 +39,4 @@ Ambitious full stack software engineer with focus in React. With experience work
 <a href="https://github.com/dahyman91"><img src="https://github-readme-stats.vercel.app/api?username=dahyman91&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="Dan's github stats"/></a>
 
 <a href="https://github.com/dahyman91"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahyman91&layout=compact&theme=buefy" alt="Dan's top languages"/></a><br><br />
-
+ -->
